@@ -13,8 +13,8 @@
 <body>
 
     <section style="background-image: url({{url_for('static', filename='26-269007_gaming-backgrounds-gaming-best-wallpaper-for-pc.jpg') }})" style="object-fit: cover;">
-        <div class="container py-5 h-100">
-            <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="container py-5 mh-100">
+            <div class="row d-flex justify-content-center align-items-center mh-100">
                 <div class="col-12">
                     <div class="card card-registration card-registration-2" style="border-radius: 15px;">
                         <div class="card-body ">
@@ -24,12 +24,12 @@
                             </div>
                             <hr class="my-4">
                             {%for i in cart.gameinfo%}
-                            <div class="row mb-4 d-flex justify-content-between align-items-center">
+                            <div class="mh-100 row mb-4 d-flex justify-content-between align-items-center">
 
                                 <div class="col-md-2 col-lg-2 col-xl-2">
 
                                     <img src="{{url_for('static', filename='image/'+i.image)}}"
-                                        class="img-fluid rounded-3" alt="Cotton T-shirt">
+                                        class="img-fluid  rounded-3" alt="Cotton T-shirt">
                                 </div>
 
                                 <div class="col-md-3 col-lg-3 col-xl-3">

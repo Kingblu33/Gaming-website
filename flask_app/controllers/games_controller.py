@@ -1,10 +1,9 @@
-from telnetlib import GA
+
 from flask_app import app
 from flask import render_template, session, redirect, request
 from flask_app.models.games_model import Game
 from flask_app.models.user_model import User
 from werkzeug.utils import secure_filename
-import os
 
 
 @app.route('/games')
