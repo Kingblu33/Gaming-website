@@ -41,7 +41,7 @@ Contributions to the project are welcome! If you'd like to contribute, please fo
 
 If you have any questions or suggestions, feel free to reach out to the project maintainer:
 
-- Email: [your-email@example.com](mailto:demmarblue@gmail.com)
+- Email: [Demmarblue@gmail.com](mailto:demmarblue@gmail.com)
 
 Thank you for your interest in the E-commerce Game Store project. Let's level up together! 🎮💪
 
