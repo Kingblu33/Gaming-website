@@ -8,9 +8,10 @@ An E-commerce web application created using Python, MySQL, Bootstrap, and Flask.
 - Game Listings 🎮: Sellers can list games for sale, including details like title, description, price, and images.
 - Search and Filtering 🔍: Users can search for specific game titles and apply filters based on genre, platform, or price range.
 - Shopping Cart 🛒: Users can add games to their shopping cart for easy purchase.
-- Secure Payment Integration 💳: The application incorporates a secure payment gateway for seamless and secure transactions.
-- User Reviews and Ratings ⭐: Users can provide feedback and ratings for purchased games to help others make informed decisions.
-- Admin Dashboard 👑: An admin panel is available to manage listings, user accounts, and ensure system integrity.
+- Secure Payment Integration (cs) 💳: The application incorporates a secure payment gateway for seamless and secure transactions.
+- User Reviews and Ratings (cs)⭐: Users can provide feedback and ratings for purchased games to help others make informed decisions.
+-Admin Dashboard(cs) 👑: An admin panel is available to manage listings, user accounts, and ensure system integrity.
+
 
 ## Technologies Used 💻
 
